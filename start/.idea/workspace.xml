@@ -9,14 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3188acc8-b78e-4544-923f-e3532556e00c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/appInsightsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3188acc8-b78e-4544-923f-e3532556e00c" name="Changes" comment="feat: llama a linkAccount en onSignUpClick">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/makeitso/screens/settings/SettingsScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/makeitso/screens/settings/SettingsScreen.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +66,25 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Tecsup &lt;nezaret.pacsi@tecsup.edu.pe&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nezaretpacsi-jpg"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nezaretpacsi-jpg/Lab11.git",
+    "accountId": "24fe02b8-3116-47a8-8d90-48f9950b39c7"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -183,6 +195,54 @@
       <option name="presentableId" value="Default" />
       <updated>1728907346978</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: agrega configuración de Firebase">
+      <option name="closed" value="true" />
+      <created>1793739001285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793739001285</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: vincula cuenta anonima con email y password">
+      <option name="closed" value="true" />
+      <created>1793739484111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1793739484111</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: llama a linkAccount en onSignUpClick">
+      <option name="closed" value="true" />
+      <created>1793739959258</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1793739959258</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: llama a linkAccount en onSignUpClick">
+      <option name="closed" value="true" />
+      <created>1793739995349</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1793739995349</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: llama a linkAccount en onSignUpClick">
+      <option name="closed" value="true" />
+      <created>1793740129586</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1793740129586</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: agrega configuración de Firebase" />
+    <MESSAGE value="feat: vincula cuenta anonima con email y password" />
+    <MESSAGE value="feat: SettingsViewModel observa el estado del usuario" />
+    <MESSAGE value="feat: llama a linkAccount en onSignUpClick" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: llama a linkAccount en onSignUpClick" />
   </component>
 </project>
